@@ -1,5 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank">
-<img src="../adrenalin-mir-dev/public/img/adrenalin_logo_vector.svg" width="400" alt="Laravel Logo"></a></p>
+<img src="https://adrenalin-fitness.by/assets/template/img/shust/adrenalin_logo_vector.svg" width="400" alt="Адреналин"></a></p>
 
 <p align="center">
 <a href="https://adrenalin-fitness.by/">Официальный сайт: https://adrenalin-fitness.by/</a>
